@@ -72,5 +72,4 @@ If you have any questions, write an Email:
 
 contact: achow@gmx.com
 
-by 
-achow
+
