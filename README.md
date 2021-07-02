@@ -15,7 +15,7 @@
 + Chia Ploting GPU RAM Drive Step by Step PDF File
 + chia-plotter-CUDA-OpenCl.Zip
 
-https://satoshidisk.com/pay/CCiJTq
+https://satoshidisk.com/pay/CCoDL9
 
 Usage: chia_plot [OPTION...]
 
